@@ -1,8 +1,7 @@
+<p align="center"><img src="https://i.imgur.com/Xwt45xO.jpeg"/></p>
 
 # CustomDroptables
-Customize your looting experience by adding items to or entirely replace existing droptables in V-Rising. Applicable for chests, drawers and other containers that spawn in the world with randomized loot.
-
-
+A V-Rising server plugin allowing more control over loot spawns in containers. Customize your looting experience by adding items to or entirely replace existing droptables in V-Rising. Applicable for chests, drawers and other containers that spawn in the world with randomized loot.
 
 ## Features
 
@@ -58,11 +57,10 @@ The configuration file is automatically created in `\%SERVER_FOLDER%\BepInEx\con
 
 ## Information about Prefab & Droptable GUID values.
 More information about GUID values can be obtained on the [V-Rising Mod Wiki.](https://wiki.vrisingmods.com/prefabs/All)
-## Information about modifiable droptables
-[![portfolio](https://i.imgur.com/O9cKgVn.png)](https://docs.google.com/spreadsheets/d/1rnUhI94OsQjDguQZr2sxKGTnhVt1W-emFUXpQFfnAKA/edit?usp=sharing)
+You can also check my [google-sheets](https://docs.google.com/spreadsheets/d/1rnUhI94OsQjDguQZr2sxKGTnhVt1W-emFUXpQFfnAKA/edit?usp=sharing) document for more information about the droptables.
 
 ## Disclaimer
-This plugin is untested in a live-enviroment with lots of players so beware bugs or other issues that could arise, to report them you can raise an issue here on github or join the [V-Rising modding community discord](https://discord.com/invite/QG2FmueAG9) to speak with me directly.
+This plugin is not tested in a live-enviroment with lots of players so beware bugs or other issues that could arise, to report them you can raise an issue here on github or join the [V-Rising modding community discord](https://discord.com/invite/QG2FmueAG9) to speak with me directly.
 
 ### Dependencies
 - [Bloodstone](https://thunderstore.io/c/v-rising/p/deca/Bloodstone/) by Deca.
