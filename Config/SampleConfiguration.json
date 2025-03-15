@@ -1,0 +1,24 @@
+{
+  "-1657744516": {
+    "replace_all": false,
+    "add_items": {
+      "-257494203": {
+        "quantity": 10,
+        "spawnchance": 0.5
+      }
+    }
+  },
+  "257686919": {
+    "replace_all": true,
+    "add_items": {
+      "-412448857": {
+        "quantity": 10,
+        "spawnchance": 0.3
+      },
+      "-1913156733": {
+        "quantity": 100,
+        "spawnchance": 0.01
+      }
+    }
+  }
+}
