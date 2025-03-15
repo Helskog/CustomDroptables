@@ -1,19 +1,25 @@
 <p align="center"><img src="https://i.imgur.com/Xwt45xO.jpeg"/></p>
 
 # Custom Droptables
-A V-Rising server plugin allowing more control over loot spawns in containers. Customize your looting experience by adding items to or entirely replace existing droptables in V-Rising. Applicable for chests, drawers and other containers that spawn in the world with randomized loot.
+A V-Rising server plugin allowing more control over loot spawns in containers. Add items to or entirely replace existing droptables, applicable for chests, drawers and other containers that spawn in the world with randomized loot.
 
 ## Features
-
 - Extensive modification of droptables via configuration file.
 - Adjust spawn chance of individual items from below 1% up to 100%
 - Add multiple items to any droptable.
 - Replace the droptable entirely, leaving you in control of all items spawned.
-## Limitations
 
+## Limitations
 - Most droptables are not unique, meaning multiple containers in the world share the same droptable. However there are some exceptions, check the Google Sheets link below for an overview.
 - You can only set fixed quantities for individual items (for now). You can theoretically bypass this by adding multiple items to the same droptable with different spawn chances.
 - If you add too many items or the containers doesnt fit, the rest will be dropped on the floor next to it. Due to this you should keep in mind order of item-objects in the config, first one will spawn in the next available slot and so on until the next one cant fit.
+- The plugin only overrides the specific drop tables once the container is spawned in, meaning if you put the plugin on an existing world you have to wait until the container a) respawns b) is looted or deleted.
+
+## Planned updates
+- Prevent dropping excess items on floor.
+- Custom droptables that can be assigned to any container.
+- Cleanup commands / general in-game administration of configuration.
+
 ## Configuration
 The configuration file is automatically created in `\%SERVER_FOLDER%\BepInEx\config\CustomDropTables\` as `Configuration.json` and will contain some boilerplate to get you going.
 ```json
