@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/Xwt45xO.jpeg"/></p>
 
-# CustomDroptables
+# Custom Droptables
 A V-Rising server plugin allowing more control over loot spawns in containers. Customize your looting experience by adding items to or entirely replace existing droptables in V-Rising. Applicable for chests, drawers and other containers that spawn in the world with randomized loot.
 
 ## Features
