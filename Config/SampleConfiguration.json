@@ -1,0 +1,53 @@
+{
+  "-1005494041": {
+    "replace_all": false,
+    "add_items": {
+      "-2365494041": {
+        "quantity": 100,
+        "spawnchance": 1
+      },
+      "-2365494042": {
+        "quantity": 100,
+        "spawnchance": 1
+      },
+      "-2365494045": {
+        "quantity": 100,
+        "spawnchance": 1
+      }
+    }
+  },
+  "-1005494011": {
+    "replace_all": false,
+    "add_items": {
+      "-2365494041": {
+        "quantity": 100,
+        "spawnchance": 1
+      },
+      "-2365494042": {
+        "quantity": 100,
+        "spawnchance": 1
+      },
+      "-2365494045": {
+        "quantity": 100,
+        "spawnchance": 1
+      }
+    }
+  },
+  "-1115494041": {
+    "replace_all": false,
+    "add_items": {
+      "-2365494041": {
+        "quantity": 100,
+        "spawnchance": 1
+      },
+      "-2365494042": {
+        "quantity": 100,
+        "spawnchance": 1
+      },
+      "-2365494045": {
+        "quantity": 100,
+        "spawnchance": 1
+      }
+    }
+  }
+}

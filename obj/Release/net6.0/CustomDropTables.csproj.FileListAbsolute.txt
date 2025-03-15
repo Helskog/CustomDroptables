@@ -1,0 +1,13 @@
+C:\dev\V Rising dev\Plugins\CustomDropTables\CustomDropTables\obj\Release\net6.0\CustomDropTables.csproj.AssemblyReference.cache
+C:\dev\V Rising dev\Plugins\CustomDropTables\CustomDropTables\obj\Release\net6.0\MyPluginInfo.cs
+C:\dev\V Rising dev\Plugins\CustomDropTables\CustomDropTables\obj\Release\net6.0\CustomDropTables.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\V Rising dev\Plugins\CustomDropTables\CustomDropTables\obj\Release\net6.0\CustomDropTables.AssemblyInfoInputs.cache
+C:\dev\V Rising dev\Plugins\CustomDropTables\CustomDropTables\obj\Release\net6.0\CustomDropTables.AssemblyInfo.cs
+C:\dev\V Rising dev\Plugins\CustomDropTables\CustomDropTables\obj\Release\net6.0\CustomDropTables.csproj.CoreCompileInputs.cache
+C:\dev\V Rising dev\Plugins\CustomDropTables\CustomDropTables\bin\Release\net6.0\CustomDropTables.deps.json
+C:\dev\V Rising dev\Plugins\CustomDropTables\CustomDropTables\bin\Release\net6.0\CustomDropTables.dll
+C:\dev\V Rising dev\Plugins\CustomDropTables\CustomDropTables\bin\Release\net6.0\CustomDropTables.pdb
+C:\dev\V Rising dev\Plugins\CustomDropTables\CustomDropTables\obj\Release\net6.0\CustomDropTables.dll
+C:\dev\V Rising dev\Plugins\CustomDropTables\CustomDropTables\obj\Release\net6.0\refint\CustomDropTables.dll
+C:\dev\V Rising dev\Plugins\CustomDropTables\CustomDropTables\obj\Release\net6.0\CustomDropTables.pdb
+C:\dev\V Rising dev\Plugins\CustomDropTables\CustomDropTables\obj\Release\net6.0\ref\CustomDropTables.dll
