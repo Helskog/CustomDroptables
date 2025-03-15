@@ -19,14 +19,14 @@ Customize your looting experience by adding items to or entirely replace existin
 The configuration file is automatically created in `\%SERVER_FOLDER%\BepInEx\config\CustomDropTables\` as `Configuration.json` and will contain some boilerplate to get you going.
 ```json
 {
-  "1049541583": {                   <       Drop table GUID value.
-    "replace_all": false,           <       False to add on items to existing droptable, true to replace all items.
-    "add_items": {                  <       List of items to add
-      "-257494203": {               <       Item group, specify the Prefab GUID you want to spawn as the "Key" value of the group.
-        "quantity": 100,            <       Define amount of items to spawn
-        "spawnchance": 1.0          <       Define chance of spawning. 1.0 is 100%, 0.5 is 50%, 0.25 is 25% and so on.
+  "1049541583": {             <       Drop table GUID value.
+    "replace_all": false,     <       False to add on items to existing droptable, true to replace all items.
+    "add_items": {            <       List of items to add
+      "-257494203": {         <       Item group, specify the Prefab GUID you want to spawn as the "Key" value of the group.
+        "quantity": 100,      <       Define amount of items to spawn
+        "spawnchance": 1.0    <       Define chance of spawning. 1.0 is 100%, 0.5 is 50%, 0.25 is 25% and so on.
       },                               
-      "-1913156733": {              <       Easily repeat the pattern for more items.
+      "-1913156733": {        <       Easily repeat the pattern for more items.
         "quantity": 15,
         "spawnchance": 0.5
       },
@@ -36,7 +36,7 @@ The configuration file is automatically created in `\%SERVER_FOLDER%\BepInEx\con
       }
     }
   },
-  "-600923884": {                   <       Add more drop tables with different items.
+  "-600923884": {             <       Add more drop tables with different items.
     "replace_all": true,
     "add_items": {
       "-257494203": {
